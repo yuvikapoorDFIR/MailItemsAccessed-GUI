@@ -1,3 +1,7 @@
+<img width="1024" height="1024" alt="Designer (1)" src="https://github.com/user-attachments/assets/4fd5ac5b-ca89-454b-9fa3-f784f649ee75" />
+
+<img width="1275" height="850" alt="image" src="https://github.com/user-attachments/assets/d930f151-d0fc-4a26-b01f-5a606185f40b" />
+
 # Mail Items Accessed Correlator
 
 **DFIR GUI Tool — UAL MailItemsAccessed × Microsoft Purview Content Search Correlation**
