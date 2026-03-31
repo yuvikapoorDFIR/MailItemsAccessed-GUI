@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/placeholder.png" alt="Mail Items Accessed Correlator" width="420"/>
+<img width="1024" height="267" alt="Designer (5)" src="https://github.com/user-attachments/assets/e5f1b68c-a06d-4b72-9856-26c256e407d5" />
 
 # Mail Items Accessed Correlator
 
@@ -21,7 +21,7 @@ The **Mail Items Accessed Correlator** is a Windows GUI tool built for Digital F
 
 All processing runs **entirely locally**. No data is transmitted to any external service.
 
-Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5) at **CyberClan DFIR**.
+Built by [Yuvi Kapoor](https://linkedin.com/in/yuvi-kapoor-5a38521a5) 
 
 ---
 
@@ -46,7 +46,8 @@ During a Business Email Compromise (BEC) or mailbox intrusion investigation, the
 
 ## Screenshots
 
-> _Add screenshots of the application here_
+> <img width="1280" height="851" alt="image" src="https://github.com/user-attachments/assets/98893551-12c7-44c9-af50-a4cc1571e173" />
+
 
 ---
 
@@ -247,7 +248,7 @@ Purview Items.csv columns are auto-detected via keyword matching and can be over
 
 ## Author
 
-**Yuvi Kapoor** — Senior DFIR Analyst, CyberClan (APAC)
+**Yuvi Kapoor** 
 
 Specialising in ransomware and BEC incident response engagements.
 
@@ -263,6 +264,6 @@ This tool is intended for use by authorised security professionals conducting le
 
 <div align="center">
 
-Built for the DFIR community · CyberClan APAC
+Built for the DFIR community 
 
 </div>
